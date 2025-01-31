@@ -1,5 +1,5 @@
 # clevruption
-A version of corkey corrupt that works with GG and contentkeeper
+corrupt extensions without powerwashing
 1. login
 2. turn off wifi
 3. shutdown your computer by holding down power button
